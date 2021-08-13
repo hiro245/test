@@ -1,0 +1,173 @@
+
+* ul {
+    list-style: none;
+}
+
+
+/*
+aタグの下線の削除：カーソルを乗せたら下線を追加
+*/
+
+* a {
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+/*
+header
+*/
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: grey;
+}
+/*fonts is import*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.header-logo {
+    font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+    float: left;
+    margin: 15px;
+}
+
+.header-logo-color {
+    color:black;
+}
+
+.header-list ul{
+    list-style: none;
+}
+
+.header-list li {
+    float: left;
+}
+
+.header-list {
+    float: right;
+    margin: 20px;
+    padding-right: 10px;
+}
+
+.header-list-1 {
+    margin-right: 10px;
+}
+
+.header-list-3 {
+    margin: 0 10px;
+}
+
+/*
+aタグ変え
+*/
+
+.header {
+    color: rgba(0, 0, 0, 1);
+}
+
+.header:hover {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/*
+categry
+*/
+
+.categry {
+    width: 100%;
+}
+
+.categry-lists {
+    display: flex;
+    width: 100%;
+    padding: 13px 0px;
+    padding-left: 250;
+    padding-left: 220px;
+    padding-right: 264px;
+}
+
+/*
+aタグ変え
+*/
+
+.categry-list {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.categry-list:hover {
+    color: rgba(0, 0, 0, 1);
+}
+
+/*
+リンクの隣の余白、境界線
+*/
+
+.categry-list-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: black 1px solid;
+    border-right: black 1px solid;
+}
+
+.categry-list-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: black 1px solid;
+}
+
+.categry-list-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: black 1px solid;
+}
+
+.categry-list-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: black 1px solid;
+}
+
+/*
+footer
+*/
+
+footer {
+    width: 100%;
+    height: 133px;
+    background-color: rgb(80, 93, 104);
+    text-align: center;
+}
+
+.footer-list {
+    padding: 20px;
+    font-size: 15px;
+}
+
+.footer-list ul {
+    list-style: none;
+}
+
+.footer-list li {
+    margin-bottom: 10px;
+}
+
+.footer-day {
+    font-size: 13px;
+    text-align: left;
+}
+
+/*
+aタグ色変え
+*/
+
+.footer {
+    color: rgb(255, 255, 255);
+}
+
+.footer:hover {
+    color:rgba(255, 255, 255, 0.7);
+}

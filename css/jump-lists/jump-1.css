@@ -1,0 +1,111 @@
+
+.yahoo-co-jp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.amazon-co-jp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+
+.google-com p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.facebook-com p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.apple-com-jp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.twitter-com-twitterjp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.microsoft-com-ja-jp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.ebay-com p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.goo-ne-jp p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}
+
+.ja-wikipedia-org p {
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    top: 3px;
+    left: 3px;
+    margin: 0;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 1);
+    padding: 3px 5px;
+}

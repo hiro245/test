@@ -1,0 +1,21 @@
+
+.mein-list img{
+    border: 2px black solid;
+}
+
+.top-left {
+    position: relative;
+}
+
+.said-1, .said-2{
+    float: left;
+    margin-bottom: 5px;
+}
+
+.said-1 {
+    margin-right: 4px;
+}
+
+.said-2 {
+    margin-left: 4px;
+}

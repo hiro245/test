@@ -1,0 +1,17 @@
+body {
+    background: white;
+}
+
+/*==== センター帯 ====*/
+#center{
+    width: 800px; /*横幅を指定*/
+    margin: 0px auto; /*左右中央揃え*/
+    padding: px; /*内部余白なし*/
+    background: #ffffff;
+    padding-left: 20px;
+    border-left: gray 1px solid;
+    padding-right: 20px;
+    border-right: gray 1px solid;
+}
+
+
